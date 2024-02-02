@@ -1,0 +1,50 @@
+﻿  sunset sunrise 2.cpp
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(164,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(168,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(176,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(189,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(193,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(201,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(323,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(327,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(335,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(348,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(352,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(360,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(481,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(485,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(493,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(506,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(510,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(518,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(641,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(645,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(653,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(666,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(670,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(678,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(800,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(804,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(812,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(825,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(829,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(837,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(961,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(965,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(973,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(986,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(990,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(998,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(159,10): warning C4101: 'ab': unreferenced local variable
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(184,10): warning C4101: 'ab1': unreferenced local variable
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(318,10): warning C4101: 'ab': unreferenced local variable
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(343,10): warning C4101: 'ab1': unreferenced local variable
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(476,11): warning C4101: 'ab': unreferenced local variable
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(501,11): warning C4101: 'ab1': unreferenced local variable
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(636,11): warning C4101: 'ab': unreferenced local variable
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(661,11): warning C4101: 'ab1': unreferenced local variable
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(795,10): warning C4101: 'ab': unreferenced local variable
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(820,10): warning C4101: 'ab1': unreferenced local variable
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(956,10): warning C4101: 'ab': unreferenced local variable
+H:\Programming fundamentals\projects c++\sunset sunrise 2\sunset sunrise 2\sunset sunrise 2.cpp(981,10): warning C4101: 'ab1': unreferenced local variable
+  sunset sunrise 2.vcxproj -> H:\Programming fundamentals\projects c++\sunset sunrise 2\Debug\sunset sunrise 2.exe
